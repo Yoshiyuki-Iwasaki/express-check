@@ -1,0 +1,22 @@
+{
+  "name": "express-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshiyuki-Iwasaki/express-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshiyuki-Iwasaki/express-check/issues"
+  },
+  "homepage": "https://github.com/Yoshiyuki-Iwasaki/express-check#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
